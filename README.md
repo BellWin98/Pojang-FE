@@ -121,10 +121,10 @@
 
 # 📈 Architecture
 
-## 📍Back-End
+## 📍Front-End
 <img src= "assets/images/backend_architecture.png" width="100%" height="100%">
 
-## 📍Front-End
+## 📍Back-End
 <img src= "assets/images/frontend_architecture.png" width="100%" height="100%">
 
 <br/>
